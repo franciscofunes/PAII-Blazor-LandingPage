@@ -12,7 +12,7 @@ El proyecto "PAII - Blazor Landing Page" es una aplicación web desarrollada uti
 
 - **Integrantes del Proyecto:** En la sección de "Integrantes" se muestra una lista de los estudiantes que participaron en el desarrollo de la aplicación como parte del curso de Programación Avanzada II.
 
-- **Enlaces Útiles:** La página también incluye enlaces a recursos relacionados con Blazor y programación web avanzada.
+- **Enlaces Útiles:** La página también incluye enlaces a recursos relacionados con Blazor y programación web avanzada muy interesantes.
 
 ## Uso
 
