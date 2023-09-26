@@ -2,7 +2,8 @@
   {
     "title": "Blazor Landing Page Web App",
     "description": "Página de inicio explicativa que utiliza Blazor WebAssembly para resaltar las capacidades de esta tecnología en el desarrollo de aplicaciones web.",
-    "subtitle": "Integrantes",
+    "aboutSectionTitle": "Acerca de",
+    "aboutSectionText": "Somos un grupo de estudio de la Universidad de la Matanza que trabaja en este proyecto. Esta es una página de inicio explicativa que utiliza Blazor WebAssembly para resaltar las capacidades de esta tecnología en el desarrollo de aplicaciones web.",
     "teamMembers": "Juan Ignacio Aschura, Francisco Ignacio Funes, Juan Sebastián Campos",    
     "section1": "Blazor",
     "section1text": "Construye un nuevo sitio web moderno de una sola página utilizando Blazor WebAssembly. Con las páginas Razor, facilita el cambio de cualquier diseño y contenido.",

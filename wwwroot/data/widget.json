@@ -7,7 +7,7 @@
     "menu1": "Inicio",
     "menu1link": "/",
     "menu2": "Acerca de",
-    "menu2link": "https://blazordev.web.app/",
+    "menu2link": "/about",
     "menu3": "Ejemplo aplicación Razor",
     "menu3link": "https://dolarpulse.netlify.app/",
     "menu4": "Documentación",
