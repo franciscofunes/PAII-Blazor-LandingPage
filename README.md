@@ -26,6 +26,12 @@ La aplicación es de código abierto y puede ser utilizada como referencia o pun
 
 4. Navegue por la página de inicio para conocer más sobre Blazor y sus características.
 
+## Despliegue
+
+Este proyecto está desplegado en Netlify. Puede acceder a la aplicación en vivo en el siguiente enlace:
+
+[Domina Blazor Web](https://dominablazorweb.netlify.app/)
+
 ## Contribuciones
 
 Este proyecto es parte de un trabajo académico para la asignatura Programación Avanzada II de la Universidad de la Matanza. No se aceptan contribuciones externas en este momento.
