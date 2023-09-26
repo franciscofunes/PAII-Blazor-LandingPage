@@ -1,6 +1,6 @@
 ﻿[
   {
-    "title": "Blazor Landing Page Web App",
+    "title": "Blazor Landing Page",
     "description": "Página de inicio explicativa que utiliza Blazor WebAssembly para resaltar las capacidades de esta tecnología en el desarrollo de aplicaciones web.",
     "aboutSectionTitle": "Acerca de",
     "aboutSectionText": "Somos un grupo de estudio de la Universidad de la Matanza que trabaja en este proyecto. Esta es una página de inicio explicativa que utiliza Blazor WebAssembly para resaltar las capacidades de esta tecnología en el desarrollo de aplicaciones web.",
@@ -21,6 +21,14 @@
     "section4text": "Puedes utilizar JSON para la mejor y más rápida solución para crear contenido o artículos. Blazor, como frontend, se puede integrar con tu API desde la base de datos del backend.",
     "section4cover": "https://dotnet.microsoft.com/static/images/illustrations/swimlane-csharp-javascript.svg?v=RVihLr2USpbwopDAeQoHXkILcg1pgfuVCjSJea99TOA",
     "section4code": "contents = await Http.GetFromJsonAsync",
+    "section5": "PWA",
+    "section5text": "Blazor WebAssembly es una plataforma de aplicaciones web del lado cliente basada en estándares, por lo que puede usar cualquier API de explorador, incluidas las de PWA",
+    "section5cover": "https://dotnet.microsoft.com/static/images/illustrations/swimlane-iot.svg?v=Z9JZAcv7n2CWdnQApR0S6PthlUELKThnLEdizg_rX5w",
+    "section5code": "dotnet new blazorwasm -o MyBlazorPwa --pwa",
+    "section6": "Blazor Server",
+    "section6text": "Con el modelo de hospedaje de Blazor Server, los componentes se ejecutan en el servidor desde una aplicación ASP.NET Core",
+    "section6cover": "/img/blazor-server.png",
+    "section6code": "interfaz de usuario se administran mediante una conexión de SignalR.",
     "icon1": "SEO",
     "icon1text": "Inyección automática de SEO",
     "icon2": "Estable",

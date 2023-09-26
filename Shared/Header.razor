@@ -1,8 +1,8 @@
 ﻿@inject HttpClient Http
 @if (contents == null){}else{@foreach (var content in contents){
-<div class="container mt-5">
+<div class="container">
     <div class="row">
-        <div class="col-md-12 p-3 p-md-5">
+        <div class="col-md-12 mt-5 pt-5 ps-md-5">
             <h1><a href="/">@content.Title</a></h1>
             <h2>@content.Description</h2>
         </div>

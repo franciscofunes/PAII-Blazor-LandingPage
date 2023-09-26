@@ -3,15 +3,15 @@
 @using System.Linq
 
 @if (contents == null){}else{@foreach (var content in contents){
-    <div class="container mt-5">
+    <div class="container mt-2">
         <div class="row">
-            <div class="col-md-12 p-3 p-md-5">
-                <h1>@content.AboutSectionTitle</h1>
+            <div class="col-md-12 pb-5 ps-md-5">
+                <h1 style="color: indigo;">@content.AboutSectionTitle</h1>
                 <p>@content.AboutSectionText</p>
+                <p>Integrantes:</p>
                 <ul>
                     @foreach (var member in content?.TeamMembers?.Split(',').Select(m => m.Trim()))
-                    {
-                        
+                    {                        
                         <li><b>@member</b></li>
                     }
                 </ul>
