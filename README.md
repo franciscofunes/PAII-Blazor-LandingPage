@@ -14,6 +14,8 @@ El proyecto "PAII - Blazor Landing Page" es una aplicación web desarrollada uti
 
 - **Enlaces Útiles:** La página también incluye enlaces a recursos relacionados con Blazor y programación web avanzada muy interesantes.
 
+- **Presentación en Profundidad:** Para una comprensión más detallada de las características de Blazor, puedes consultar nuestra presentación en Google Docs: [Presentación Blazor](https://docs.google.com/presentation/d/1dXmS8PWpfH5OABcuLl-McvYIbZmt_XcJ3gQYCWDxIXI/edit#slide=id.p)
+
 ## Uso
 
 La aplicación es de código abierto y puede ser utilizada como referencia o punto de partida para proyectos que utilicen Blazor WebAssembly. Para ejecutarla, siga estos pasos:
